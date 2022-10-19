@@ -3,7 +3,7 @@
 #include "main.h"
 /**
 * print_bin - convert to binary
-* @b: number in decinal
+* @b: number in decimal
 * Return: number of chars printed
 */
 int print_bin(va_list b)
